@@ -1,7 +1,7 @@
 {
   "name": "DC Store -- Mobile Shopping App",
   "short_name": "DC Store",
-  "start_url": "../home-mobile.html",
+  "start_url": "home-mobile.html",
   "display": "standalone",
   "background_color": "#131A22",
   "theme_color": "#131A22",
