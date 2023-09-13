@@ -10,7 +10,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "299",
         image : "static/products/01.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_BOAT_AIRPODS_PRO_(BLACK)_₹299",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_BOAT_AIRPODS_PRO_(BLACK)_₹299",
     },
     {
         id : "2",
@@ -20,7 +20,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "259",
         image : "static/products/02.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_BOAT_AIRPODS_PRO_(GREEN-WHITE)_₹259",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_BOAT_AIRPODS_PRO_(GREEN-WHITE)_₹259",
     },
     {
         id : "3",
@@ -30,7 +30,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "399",
         image : "static/products/03.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_BOAT_AIRPODS_PRO_(RED)_₹399",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_BOAT_AIRPODS_PRO_(RED)_₹399",
     },
     {
         id : "4",
@@ -40,7 +40,7 @@ let db = {
         rating: "static/images/data-02.png",
         price : "359",
         image : "static/products/04.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_BOAT_AIRPODS_PRO_(GREEN)_₹359",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_BOAT_AIRPODS_PRO_(GREEN)_₹359",
     },
     {
         id : "5",
@@ -50,7 +50,7 @@ let db = {
         rating: "static/images/data-01.png",
         price : "499",
         image : "static/products/05.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_BOAT_AIRPODS_WIRELESS_(BLUE)_₹499",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_BOAT_AIRPODS_WIRELESS_(BLUE)_₹499",
     },
     {
         id : "6",
@@ -60,7 +60,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "346",
         image : "static/products/06.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "7",
@@ -70,7 +70,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "199",
         image : "static/products/07.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "8",
@@ -80,7 +80,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "199",
         image : "static/products/08.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "9",
@@ -90,7 +90,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "199",
         image : "static/products/09.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "10",
@@ -100,7 +100,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "199",
         image : "static/products/10.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "11",
@@ -110,7 +110,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "3999",
         image : "static/products/11.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "12",
@@ -120,7 +120,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "3999",
         image : "static/products/12.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "13",
@@ -130,7 +130,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "3999",
         image : "static/products/13.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "14",
@@ -140,7 +140,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "3999",
         image : "static/products/14.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "15",
@@ -150,7 +150,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "4999",
         image : "static/products/15.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_sony_cx239",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_sony_cx239",
     },
     {
         id : "16",
@@ -160,7 +160,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "15,999",
         image : "static/products/16.webp",
-        purchase :  "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
+        purchase :  "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
     },
     {
         id : "17",
@@ -170,7 +170,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "15,999",
         image : "static/products/17.webp",
-        purchase :  "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
+        purchase :  "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
     },
     {
         id : "18",
@@ -180,7 +180,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "15,999",
         image : "static/products/18.webp",
-        purchase :  "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
+        purchase :  "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
     },
     {
         id : "19",
@@ -190,7 +190,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "15,999",
         image : "static/products/19.webp",
-        purchase :   "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
+        purchase :   "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
     },
     {
         id : "20",
@@ -200,7 +200,7 @@ let db = {
         rating: "static/images/data-05.png",
         price : "15,999",
         image : "static/products/20.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_VIVO_5G_4_128_₹15,999",
     },
     {
         id : "21",
@@ -210,7 +210,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "79,999",
         image : "static/products/21.jpg",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
     },
     {
         id : "22",
@@ -220,7 +220,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "79,999",
         image : "static/products/22.jpg",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
     },
     {
         id : "23",
@@ -230,7 +230,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "79,999",
         image : "static/products/23.jpg",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
     },
     {
         id : "24",
@@ -240,7 +240,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "79,999",
         image : "static/products/24.jpg",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_APPLE_IPHONE_14_₹79,999",
     },
     {
         id : "25",
@@ -250,7 +250,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "2999",
         image : "static/products/25.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
     },
     {
         id : "26",
@@ -260,7 +260,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "2999",
         image : "static/products/26.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
     },
     {
         id : "27",
@@ -270,7 +270,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "2999",
         image : "static/products/27.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
     },
     {
         id : "28",
@@ -280,7 +280,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "2999",
         image : "static/products/28.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_JBL_BLUETOOTH_STEREO_SOUND_₹2999",
     },
     {
         id : "29",
@@ -290,7 +290,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "6999",
         image : "static/products/29.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
     },
     {
         id : "30",
@@ -300,7 +300,7 @@ let db = {
         rating: "static/images/data-04.png",
         price : "6999",
         image : "static/products/30.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
     },
     {
         id : "31",
@@ -310,7 +310,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "6999",
         image : "static/products/31.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
     },
     {
         id : "32",
@@ -320,7 +320,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "6999",
         image : "static/products/32.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_REDMI_NOISE_FIT_WITH_VDO_CALL_₹6999",
     },
     {
         id : "33",
@@ -330,7 +330,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "45,999",
         image : "static/products/33.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_HP_GAMING_VICTUS_₹45,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_HP_GAMING_VICTUS_₹45,999",
     },
     {
         id : "34",
@@ -340,7 +340,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "65,999",
         image : "static/products/34.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_HP_GAMING_VICTUS_PRO_₹65,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_HP_GAMING_VICTUS_PRO_₹65,999",
     },
     {
         id : "35",
@@ -350,7 +350,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "45,999",
         image : "static/products/35.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_HP_GAMING_VICTUS_ROG_₹45,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_HP_GAMING_VICTUS_ROG_₹45,999",
     },
     {
         id : "36",
@@ -360,7 +360,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "95,999",
         image : "static/products/36.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
     },
     {
         id : "37",
@@ -370,7 +370,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "95,999",
         image : "static/products/37.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
     },
     {
         id : "38",
@@ -380,7 +380,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "95,999",
         image : "static/products/38.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
     },
     {
         id : "39",
@@ -390,7 +390,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "95,999",
         image : "static/products/39.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
     },
     {
         id : "40",
@@ -400,7 +400,7 @@ let db = {
         rating: "static/images/data-03.png",
         price : "95,999",
         image : "static/products/40.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_DELL_G15_I5_12_GEN_₹95,999",
     },
     {
         id : "41",
@@ -410,7 +410,7 @@ let db = {
         rating: "static/images/data-02.png",
         price : "55,999",
         image : "static/products/41.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹55,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹55,999",
     },
     {
         id : "42",
@@ -420,7 +420,7 @@ let db = {
         rating: "static/images/data-02.png",
         price : "55,999",
         image : "static/products/42.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹55,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹55,999",
     },
     {
         id : "43",
@@ -430,7 +430,7 @@ let db = {
         rating: "static/images/data-02.png",
         price : "55,999",
         image : "static/products/43.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹55,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹55,999",
     },
     {
         id : "44",
@@ -440,7 +440,7 @@ let db = {
         rating: "static/images/data-02.png",
         price : "95,999",
         image : "static/products/44.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹95,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹95,999",
     },
     {
         id : "45",
@@ -450,7 +450,7 @@ let db = {
         rating: "static/images/data-02.png",
         price : "45,999",
         image : "static/products/45.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹45,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_LENOVO_IDEAPAD_GAMING_I5_11_GEN_₹45,999",
     },
     {
         id : "46",
@@ -460,7 +460,7 @@ let db = {
         rating: "static/images/data-01.png",
         price : "14,999",
         image : "static/products/46.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_LG_32_INCH_LED_SMART_TV_₹14,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_LG_32_INCH_LED_SMART_TV_₹14,999",
     },
     {
         id : "47",
@@ -470,7 +470,7 @@ let db = {
         rating: "static/images/data-01.png",
         price : "15,999",
         image : "static/products/47.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_REALME_32_INCH_SMART_Android_TV_₹15,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_REALME_32_INCH_SMART_Android_TV_₹15,999",
     },
     {
         id : "48",
@@ -480,7 +480,7 @@ let db = {
         rating: "static/images/data-01.png",
         price : "19,999",
         image : "static/products/48.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_ONEPLUS_Y1S_43_INCH_SMART_Android_TV_₹19,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_ONEPLUS_Y1S_43_INCH_SMART_Android_TV_₹19,999",
     },
     {
         id : "49",
@@ -490,7 +490,7 @@ let db = {
         rating: "static/images/data-01.png",
         price : "14,999",
         image : "static/products/49.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_MI_32_INCH_SMART_GOOGLE_TV_₹14,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_MI_32_INCH_SMART_GOOGLE_TV_₹14,999",
     },
     {
         id : "50",
@@ -500,7 +500,7 @@ let db = {
         rating: "static/images/data-01.png",
         price : "13,999",
         image : "static/products/50.webp",
-        purchase : "https://api.whatsapp.com/send?phone=918597208868&text=i_want_to_buy_SAMSUNG_CRYSTAL_SMART_TIZEN_TV_₹13,999",
+        purchase : "https://api.whatsapp.com/send?phone=919134096634&text=i_want_to_buy_SAMSUNG_CRYSTAL_SMART_TIZEN_TV_₹13,999",
     },
 
   ],
