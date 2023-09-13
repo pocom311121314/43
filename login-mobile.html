@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dcstore</title>
+    <!--fevicon icon-->
+    <link rel="icon" href="static/images/home-18.png" />
+    <link rel="stylesheet" href="/static/style-mobile.css" />
+    <!--font awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+  </head>
+  <body>
+    <div class="topnav">
+      <div class="nav-logo">
+        <a><img src="static/images/home-01.png" width="38px" height="38px"></a>
+      </div>
+      <div class="nav-name"><a><h6>store</h6></a></div>
+      <div class="search-container">
+        <a href="/search-mobile.html"><i class="fa fa-search"></i></a>
+        <a href="/notification-mobile.html"><i class="fa fa-bell"></i></a>
+        <a href="/login-mobile.html" class="active"><i class="fa fa-user"></i></a>
+      </div>
+    </div>
+    <div class="navgap"></div>
+    <div class="cart-buttons">
+      <button class="cart-button">
+        <i class="fa fa-sign-in" aria-hidden="true">
+         </i> Get Access to Orders and Favourites</button>
+    </div>
+    <form>
+      <div class="login-container">
+        <label for="uname"><b>Phone Number</b></label>
+        <input type="text" placeholder="Type Phone Number" name="uname" required>
+        <button type="submit" style="background-color:#c67400">
+          <i class="fa fa-paper-plane" aria-hidden="true">
+
+          </i> Send OTP</button>
+        <label for="psw"><b>OTP</b></label>
+        <input type="password" placeholder="Enter OTP" name="psw" required>
+        <label class="psw"><input type="checkbox" checked="checked">  Remember me</label>
+        <button type="submit">
+          <i class="fa fa-user-circle" aria-hidden="true">
+          </i> Login</button>
+      </div>
+    </form>
+    <!--explore products--->
+    <div>
+      <img src="static/images/home-mobile-05.png"  width="100%">
+      <main id="product-cards"></main>
+    </div>
+    <div class="icon-bar-gap"></div>
+    <div class="icon-bar">
+      <a href="/home-mobile.html"><i class="fa fa-home"></i></a> 
+      <a href="/favourite-mobile.html"><i class="fa fa-heart"></i></a> 
+      <a href="/menu-mobile.html"><i class="fa fa-bars"></i></a> 
+      <a href="/cart-mobile.html"><i class="fa fa-shopping-cart"></i></a>
+      <a href="/ordertracking-mobile.html" ><i class="fa fa-truck"></i></a> 
+    </div>
+    <script src="/static/data.js"></script>
+      <script> window.onload = () => { filterProduct("15k"); };</script>
+  </body>
+</html>

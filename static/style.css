@@ -1,0 +1,229 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  font-family: 'Roboto', sans-serif;
+}
+body {
+  background-color: #FFFFFF;
+}
+.navgap {
+  padding-top: 50px;
+}
+hr.dashed {
+  border-top: 5px dashed #FFFFFF;
+}
+.filter-buttons {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+  padding: 10px;
+  justify-content: center;
+  grid-gap: 10px;
+  
+}
+.filter-button {
+  border: 1px solid #000000;
+  border-radius: 3em;
+  background-color: #D2D2D2;
+  color: #000000;
+  cursor: pointer;
+  padding: 10px;
+  
+}
+.active {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+#product-cards {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  padding: 10px;
+  grid-gap: 10px;
+  justify-content: center;
+  
+}
+.product-card {
+  width: 170px;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #d2d2d2;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.image-container img {
+  width: 150px;
+  height: 200px;
+  object-fit: contain;
+}
+.container {
+  max-width: 160px;
+  max-height: 300px;
+}
+.rating-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hide {
+  display: none;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #131A22;
+  position: fixed;
+  width: 100%;
+}
+.topnav .nav-logo a  {
+  margin-top: 4px;
+  margin-left: 5px;
+  padding: 0px 0px;
+}
+.topnav .nav-name a {
+  margin-top: 20px;
+  
+  padding: 0px 0px;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #d2d2d2;
+  color: black;
+}
+.topnav a.active {
+  background-color: #FFFFFF;
+  color: rgb(0, 0, 0);
+}
+.topnav .search-container a{
+  float: right;
+  
+  font-size: 20px;
+  padding: 10px 15px;
+}
+.topnav input[type=text] {
+  padding: 1px 10px;
+  margin-top: 9px;
+  margin-right: 1px;
+  font-size: 20px;
+  border: none;
+  width: 32%;
+  float: right;
+  border-radius: 20px;
+}
+.topnav .search-container #search {
+  cursor: pointer;
+}
+.topnav #pwa {
+  cursor: pointer;
+}
+.topnav .right-nav  {
+  float: right;
+}
+.topnav .right-nav a {
+  padding: 10px 15px;
+  font-size: 20px;
+}
+.product-tag {
+  display: none;
+}
+/* Bordered form */
+
+form {
+  border: 3px solid #f1f1f1;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.cart-buttons {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.cart-buttons button {
+  border-radius: 10px;
+  background-color: #D2D2D2;
+  color: #000000;
+  cursor: pointer;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+}
+/* Full-width inputs */
+.login-container input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+/* Set a style for all buttons */
+.login-container button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+/* Add a hover effect for buttons */
+.login-container button:hover {
+  opacity: 0.8;
+}
+/* Add padding to containers */
+.login-container {
+  padding: 16px;
+}
+/* The "Forgot password" text */
+.login-container .psw {
+  float: right;
+  padding-top: 16px;
+  display: block;
+}
+@media screen and (max-width: 720px) {
+  #product-cards {
+    grid-template-columns: auto auto;
+  }
+  
+  .topnav input[type=text] {
+    font-size: 25px;
+  }
+  .topnav .left-nav  {
+    display: none;
+  }
+  .topnav .right-nav {
+    display: none;
+  }
+  .carousel iframe {
+    height: 80px;
+  }
+  .topnav input[type=text] {
+    font-size: 20px;
+    width: 50%;
+  }
+  .filter-buttons {
+    grid-template-columns: auto auto auto;
+  }
+  .filter-button {
+    padding: 5px;
+  }
+  
+}

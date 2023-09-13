@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dcstore</title>
+    <link rel="icon" href="static/images/home-18.png" />
+    <link rel="stylesheet" href="/static/style-mobile.css" />
+    
+   <!-- Google Font -->
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div class="topnav">
+      <div class="search-container">
+      <a id="search"><i class="fa fa-search"></i></a>
+      </div>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="search for products......." >
+      </div>
+    </div> 
+      <div class="navgap"></div>
+      <div class="cart-buttons">
+        <button class="cart-button"><i class="fa fa-filter"></i> Apply Search Filters</button>
+      </div>
+      
+        <div class="filter-buttons">
+          <button class="filter-button" onclick="filterProduct('199')">199 STORE</button>
+          <button class="filter-button" onclick="filterProduct('500')">BELOW 500</button>
+          <button class="filter-button" onclick="filterProduct('1k')">BELOW 1000</button>
+          <button class="filter-button" onclick="filterProduct('5k')">BELOW 5000</button>
+          <button class="filter-button" onclick="filterProduct('10k')">BELOW 10,000</button>
+          <button class="filter-button" onclick="filterProduct('15k')">BELOW 15,000</button>
+          <button class="filter-button" onclick="filterProduct('20k')">BELOW 20,000</button>
+          <button class="filter-button" onclick="filterProduct('50k')">BELOW 50,000</button>
+          <button class="filter-button" onclick="filterProduct('80k')">BELOW 80,000</button>
+          <button class="filter-button" onclick="filterProduct('100k')">BELOW 100,000</button>
+         </div>
+      
+      <div class="cart-buttons">
+        <button class="cart-button"><i class="fa fa-search"></i> Search Results</button>
+      </div>
+       <main id="product-cards"><!--render product---></main>
+       <img src="static/images/home-mobile-08.jpg" width="100%">
+       <img src="static/images/home-mobile-09.jpg" width="100%">
+       <img src="static/images/home-mobile-07.jpg" width="100%">
+       <img src="static/images/home-mobile-06.jpg" width="100%">
+      <div class="icon-bar-gap"></div>
+       <div class="icon-bar">
+        <a href="/home-mobile.html"><i class="fa fa-home"></i></a> 
+        <a href="/favourite-mobile.html"><i class="fa fa-heart"></i></a> 
+        <a href="/menu-mobile.html"><i class="fa fa-bars"></i></a> 
+        <a href="/cart-mobile.html"><i class="fa fa-shopping-cart"></i></a>
+        <a href="/ordertracking-mobile.html"><i class="fa fa-truck"></i></a> 
+      </div>
+      <script src="/static/data.js"></script>
+      <script> window.onload = () => { filterProduct("1k"); };</script>
+  </body>
+</html>

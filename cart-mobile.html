@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dcstore</title>
+    <!--fevicon icon-->
+    <link rel="icon" href="static/images/home-18.png" />
+    <link rel="stylesheet" href="/static/style-mobile.css" />
+    <!--font awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div class="topnav">
+      <div class="nav-logo">
+        <a><img src="static/images/home-01.png" width="38px" height="38px"></a>
+      </div>
+      <div class="nav-name"><a><h6>store</h6></a></div>
+      <div class="search-container">
+        <a href="/search-mobile.html"><i class="fa fa-search"></i></a>
+        <a href="/notification-mobile.html"><i class="fa fa-bell"></i></a>
+        <a href="/login-mobile.html"><i class="fa fa-user"></i></a>
+      </div>
+    </div> 
+    <div class="navgap"></div>
+    <img src="static/images/cart-mobile-01.png"  width="100%">
+    <div class="cart-buttons">
+      <button>
+        <i class="fa fa-lock" aria-hidden="true">
+         </i> Proceed to Checkout</button>
+    </div>
+    <!--explore products--->
+    <div>
+      <main id="product-cards"></main>
+    </div>
+    <div class="icon-bar-gap"></div>
+    <div class="icon-bar">
+      <a href="/home-mobile.html"><i class="fa fa-home"></i></a> 
+      <a href="/favourite-mobile.html"><i class="fa fa-heart"></i></a> 
+      <a href="/menu-mobile.html"><i class="fa fa-bars"></i></a> 
+      <a href="/cart-mobile.html" class="active"><i class="fa fa-shopping-cart"></i></a>
+      <a href="/ordertracking-mobile.html" ><i class="fa fa-truck"></i></a> 
+    </div>
+    <script src="/static/data.js"></script>
+    <script> window.onload = () => { filterProduct("50k"); };</script>
+  </body>
+</html>

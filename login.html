@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dcstore</title>
+    <link rel="icon" href="static/images/home-18.png" />
+    <link rel="stylesheet" href="/static/style.css" />
+    
+   <!-- Google Font -->
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div class="topnav">
+      <div class="nav-logo">
+        <a href="/home.html">
+          <img src="static/images/home-01.png" width="30px" height="30px">
+        </a>
+      </div>
+      <div class="nav-name">
+        <a href="/home.html"><h6>store</h6></a>
+      </div>
+      <div class="left-nav">
+        <a href="/home.html"><i class="fa fa-users"></i> SELL</a>
+        <a href="/home.html"><i class="fa fa-question-circle"></i> ABOUT</a>
+        <a href="/home.html"><i class="fa fa-phone"></i> CONTACT US</a>
+      </div>
+      <div class="right-nav">
+        <a href="/home.html"><i class="fa fa-truck"></i></a>
+        <a href="/home.html"><i class="fa fa-cog"></i></a>
+        <a href="/home.html"><i class="fa fa-bell"></i></a>
+        <a href="/home.html"><i class="fa fa-heart"></i></a>
+        <a href="/home.html"><i class="fa fa-shopping-cart"></i></a>
+      </div>
+      <div class="search-container">
+        <a class="active" href="/login.html"><i class="fa fa-user"></i></a>
+        <a href="/search.html"><i class="fa fa-search"></i></a>
+      </div>
+    </div> 
+    <div class="navgap"></div>
+    
+      <form>
+        <div class="cart-buttons">
+          <button class="cart-button">
+            <i class="fa fa-sign-in" aria-hidden="true">
+             </i> Get Access to Orders and Favourites</button>
+        </div>
+        <div class="login-container">
+          <label for="uname"><b>Phone Number</b></label>
+          <input type="text" placeholder="Type Phone Number" name="uname" required>
+          <button type="submit" style="background-color:#c67400">
+            <i class="fa fa-paper-plane" aria-hidden="true">
+  
+            </i> Send OTP</button>
+          <label for="psw"><b>OTP</b></label>
+          <input type="password" placeholder="Enter OTP" name="psw" required>
+          <label class="psw"><input type="checkbox" checked="checked">  Remember me</label>
+          <button type="submit">
+            <i class="fa fa-user-circle" aria-hidden="true">
+            </i> Login</button>
+        </div>
+      </form>
+    
+    <!--explore products--->
+    <div>
+      <img src="static/images/home-15.png"  width="100%">
+      <main id="product-cards"></main>
+    </div>
+    <img width="100%" src="static/images/home-12.jpg">
+    <script src="/static/data.js"></script>
+    <script> window.onload = () => { filterProduct("199"); };</script>
+  </body>
+</html>
